@@ -1,0 +1,4 @@
+Git Branching Notes
+
+A branch allows us to work on a feature separately
+from the main project.
