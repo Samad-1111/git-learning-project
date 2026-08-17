@@ -7,3 +7,7 @@ I am learning Git and GitHub by building this project.
 - GitHub
 - Commits
 - Branches
+
+## Git Practice
+
+This repository is my hands-on Git learning project.
