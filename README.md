@@ -40,3 +40,16 @@ When a conflict occurs, Git adds conflict markers to the file.
 
 I learned how to choose the current branch changes, incoming branch
 changes, or combine both changes manually.
+
+## Commands Practiced
+
+- `git status` - Check the current repository state
+- `git add` - Stage changes
+- `git commit` - Save staged changes in Git history
+- `git log` - View commit history
+- `git diff` - View unstaged changes
+- `git branch` - View and create branches
+- `git switch` - Switch branches
+- `git merge` - Merge another branch into the current branch
+- `git push` - Send local commits to GitHub
+- `git pull` - Get changes from GitHub
