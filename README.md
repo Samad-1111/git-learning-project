@@ -25,3 +25,11 @@ This project is being used to practice Git branches and merges..
 - How merge conflicts happen
 - How to resolve merge conflicts
 - How to push changes to GitHub
+
+## Merge Concepts
+
+Git compares changes from the common ancestor and tries to combine
+changes from different branches automatically.
+
+If both branches modify the same part of a file, Git may create
+a merge conflict that must be resolved manually.
