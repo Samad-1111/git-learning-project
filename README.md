@@ -33,3 +33,10 @@ changes from different branches automatically.
 
 If both branches modify the same part of a file, Git may create
 a merge conflict that must be resolved manually.
+
+## Merge Conflict Resolution
+
+When a conflict occurs, Git adds conflict markers to the file.
+
+I learned how to choose the current branch changes, incoming branch
+changes, or combine both changes manually.
