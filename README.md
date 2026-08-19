@@ -53,3 +53,8 @@ changes, or combine both changes manually.
 - `git merge` - Merge another branch into the current branch
 - `git push` - Send local commits to GitHub
 - `git pull` - Get changes from GitHub
+
+## Today's Git Practice
+
+Today I practiced Git branches, switching between branches,
+merging branches, and resolving merge conflicts.
