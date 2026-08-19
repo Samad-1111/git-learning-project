@@ -57,4 +57,4 @@ changes, or combine both changes manually.
 ## Today's Git Practice
 
 Today I practiced Git branches, switching between branches,
-merging branches, and resolving merge conflicts.
+merging branches, and resolving merge conflictss.
